@@ -1,4 +1,4 @@
-# Sobre mí
+# Sobre mí: Carlos Ariel Diaz Cattoni
 Programador en constante aprendizaje, actualmente cursando la tecnicatura universitaria en Desarrollo de Software.
 
 # Teconologías
